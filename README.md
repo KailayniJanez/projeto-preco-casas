@@ -54,7 +54,7 @@ Este projeto implementa um modelo de **Regressão Linear** para prever o preço 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/projeto-preco-casas.git
-cd projeto-preco-casas
+cd projeto-preco-casas ` ``` `
 
 2. Instale as dependências:
 pip install -r requirements.txt
